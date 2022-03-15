@@ -1,5 +1,5 @@
 {
-  "name": "demo10",
+  "name": "demo11",
   "logoURI": "https://coin.top/production/logo/usdj.png",
   "timestamp": 1610520957490,
   "tokens": [
@@ -23,18 +23,10 @@
       "chainId": 1,
       "address": "TLBaRhANQoJFTqre9Nf1mjuwNWjCJeYqUL",
       "name": "USDJ",
-      "symbol": "USDJ",
+      "symbol": "USDC",
       "decimals": 18,
       "logoURI": "https://coin.top/production/logo/usdj.png"
     },
-    {
-      "chainId": 1,
-      "address": "TLBaRhANQoJFTqre9Nf1mjuwNWjCJeYqUL",
-      "name": "USDJ",
-      "symbol": "USDJ",
-      "decimals": 16,
-      "logoURI": "https://coin.top/production/logo/usdj.png"
-    }
   ],
   "version": {
     "major": 1,
