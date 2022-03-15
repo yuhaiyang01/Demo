@@ -20,13 +20,13 @@
       "logoURI": "https://coin.top/production/upload/logo/TL6K6iaEkn8kdnJ79a8Be3S4RFf4pFkGE8.png"
     },
     {
-      "chainId": 1,
-      "address": "TLBaRhANQoJFTqre9Nf1mjuwNWjCJeYqUL",
-      "name": "USDJ",
-      "symbol": "USDC",
-      "decimals": 18,
-      "logoURI": "https://coin.top/production/logo/usdj.png"
-    }
+"chainId": 1,
+"address": "TXKNURXboK7jZXCMwUGmpW8swqf27DsL2a",
+"name": "TronToken6",
+"symbol": "TronToken6",
+"decimals": 6,
+"logoURI": "https://coin.top/production/logo/usdj.png"
+}
   ],
   "version": {
     "major": 1,
